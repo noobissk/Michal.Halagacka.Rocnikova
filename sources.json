@@ -1,0 +1,19 @@
+{
+    "FIREWALLS": {
+
+        "Types of firewalls": "https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html",
+        "Wiki, Ways FWs work and log types": "https://en.wikipedia.org/wiki/Firewall_(computing)",
+        "Actually good general reference for FW": "https://www.fortinet.com/resources/cyberglossary/firewall",
+        "FW history": "https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/",
+        "Software / hardware": "https://www.cisa.gov/news-events/news/understanding-firewalls-home-and-small-office-use",
+        "In-depth + inventors & history": "https://usa.kaspersky.com/resource-center/definitions/firewall"
+    },
+    "VIRTUAL PRIVATE NETWORKS": {
+        "Wiki": "https://en.wikipedia.org/wiki/Virtual_private_network",
+        "general 'need-to=know' stuff + some types of VPN": "https://www.techtarget.com/searchnetworking/definition/virtual-private-network",
+        "has some stuff about hackers and what the VPN does": "https://whatismyipaddress.com/vpn-explanation",
+        "how it apparently does actually protect your data": "https://gizmodo.com/vpns-what-they-do-how-they-work-and-why-youre-dumb-f-5990192",
+        "advantages & disadvantages of vpns": "https://www.techopedia.com/definition/4806/virtual-private-network-vpn",
+        "this one's from Microsoft and has a lot of info": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn"
+    }
+}
