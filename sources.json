@@ -1,6 +1,6 @@
 {
-    "FIREWALLS": {
-
+    "FIREWALLS": 
+    {
         "Types of firewalls": "https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html",
         "Wiki, Ways FWs work and log types": "https://en.wikipedia.org/wiki/Firewall_(computing)",
         "Actually good general reference for FW": "https://www.fortinet.com/resources/cyberglossary/firewall",
